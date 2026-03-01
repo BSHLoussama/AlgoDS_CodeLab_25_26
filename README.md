@@ -137,3 +137,5 @@ Your goal is not only to make the program work, but to:
 - Structure your code clearly
 
 If something is unclear, review your TP report and your class notes before asking.
+
+## Good Luck!
