@@ -5,11 +5,11 @@ double my_pow(double base, int exp);
 int main()
 {
     double base = 2;
-    int exp = 5;
+    int exp = -3;
 
-    // double result = my_pow(base, exp);
-    if (my_pow(base, exp) != -1)
-        printf("\n%.1lf ^ %d = %.5lf\n", base, exp, my_pow(base, exp));
+    double result = my_pow(base, exp);
+
+    printf("\n%.1lf ^ %d = %.5lf\n", base, exp, result);
 
     return 0;
 }

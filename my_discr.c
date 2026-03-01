@@ -32,7 +32,7 @@ double my_pow(double base, int exp)
     return result;
 }
 
-
+// my_discr.c
 //DRY
 double compute_discr(double a, double b, double c)
 {
