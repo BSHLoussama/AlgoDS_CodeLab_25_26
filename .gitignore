@@ -1,1 +1,10 @@
-/lib_version
+# Ignore everything
+*
+
+# Allow folders
+!TP5_files/
+!TP6_structures/
+
+# Allow files inside them
+!TP5_files/**
+!TP6_structures/**
