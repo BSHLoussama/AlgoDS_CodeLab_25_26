@@ -2,10 +2,10 @@
 *
 
 # Allow folders
-!TP5_files/
+!TP5_functions/
 !TP6_structures/
 !README.md
 
-# Allow files inside them
-!TP5_files/**
+# Allow functions inside them
+!TP5_functions/**
 !TP6_structures/**
